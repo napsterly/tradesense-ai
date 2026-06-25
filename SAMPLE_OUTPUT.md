@@ -1,0 +1,13 @@
+,Value
+total_trades,12
+win_rate,58.3
+total_pnl,526.8
+avg_win,117.47
+avg_loss,-59.1
+profit_factor,2.78
+expectancy,43.9
+max_drawdown,-105.5
+best_pair,BTCUSDT
+worst_pair,DOGEUSDT
+longest_win_streak,2
+longest_loss_streak,2
